@@ -1,0 +1,1334 @@
+{
+    "grados": [
+            {
+                    "nombre": "Grado 1",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 2",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 3",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 4",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 5",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 6",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 7",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 8",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 9",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 10",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 11",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 12",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 13",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            },
+            {
+                    "nombre": "Grado 14",
+                    "juegos": 
+                    [
+                        {
+                            "titulo": "Embarque y desembarque en helicoptero",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton0.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque0.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque1.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque2.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque3.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque4.png",
+                                "src/com/universae/images/game/miniaturas/embarque/Embarque5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Protocolo ante una hemorragia externa",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton1.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia0.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia1.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia2.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia3.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia4.png",
+                                "src/com/universae/images/game/miniaturas/hemorragia/Hemorragia5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Maniobras de extinción segun la instalación",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton2.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion0.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion1.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion2.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion3.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion4.png",
+                                "src/com/universae/images/game/miniaturas/extincion/Extincion5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Tipología y caracteristicas de los EPIs",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton3.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/epis/EPIS0.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS1.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS2.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS3.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS4.png",
+                                "src/com/universae/images/game/miniaturas/epis/EPIS5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },
+                        {
+                            "titulo": "Señalización a helicóptero desde tierra",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton4.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero0.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero1.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero2.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero3.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero4.png",
+                                "src/com/universae/images/game/miniaturas/helicoptero/Helicoptero5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        },{
+                            "titulo": "Rescate en Ascensor",
+                            "imagen": "src/com/universae/images/home/Buttons/HomeButton5.png",
+                            "miniaturas": 
+                            [
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor0.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor1.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor2.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor3.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor4.png",
+                                "src/com/universae/images/game/miniaturas/ascensor/Ascensor5.png"
+                            ],
+                            "ruta": "src/Juego/CampoPracticas_EPIS.exe",
+                            "descripcion": "<html><head><style>@font-face {font-family: 'Raleway Medium'; src: url('src/tipografia/Raleway-medium.ttf') format('truetype'); } @font-face { font-family: 'Raleway Regular'; src: url('src/tipografia/Raleway-regular.ttf') format('truetype'); } div strong { font-family: 'Raleway Medium', sans-serif; } div { font-family: 'Raleway Regular', sans-serif; font-size: 10px; } </style> </head> <body> <div> &bull; <strong>Título:</strong><br> &emsp; Mantenimiento de los equipos y herramientas de extinción de incendios forestales. </div> <div> &bull; <strong>Descripción:</strong><br> &emsp; En un campo de prácticas sumido en el desorden y la confusión tienes que encontrar y colocar las partes de los EPIs utilizados en<br>&emsp; la extinción de incendios forestales. </div> <div> &bull; <strong>Grado, asignatura y unidad:</strong><br> &emsp; Coordinación de emergencias y protección civil.<br> &emsp; Gestión de recursos de emergencias y protección civil.<br> &emsp; Planificación y supervisión del mantenimiento de equipos, medios técnicos e instalaciones. </div> <div> &bull; <strong>Duración aproximada:</strong><br> &emsp; 10 minutos. </div> <div> &bull; <strong>Nivel de dificultad:</strong><br> &emsp; Fácil. </div> </body> </html>"
+                        }
+                    ]
+            }
+    ]
+}
